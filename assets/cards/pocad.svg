@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="168" viewBox="0 0 400 168" role="img" aria-label="PoCAD">
+<title>PoCAD</title>
+
+<defs>
+  <pattern id="gpocad" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0H0V20" fill="none" stroke="#141F2B" stroke-width="1"/>
+  </pattern>
+  <pattern id="Gpocad" width="100" height="100" patternUnits="userSpaceOnUse">
+    <path d="M100 0H0V100" fill="none" stroke="#202E3C" stroke-width="1.2"/>
+  </pattern>
+</defs>
+<rect width="400" height="168" rx="18" fill="#0D161F"/>
+<rect width="400" height="168" rx="18" fill="url(#gpocad)"/>
+<rect width="400" height="168" rx="18" fill="url(#Gpocad)"/>
+<rect x=".75" y=".75" width="398.5" height="166.5" rx="17" fill="none" stroke="#394A5A" stroke-width="1.5"/>
+<rect x="0" y="22" width="5" height="40" rx="2" fill="#46D193"/>
+<text x="24" y="50" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#ECF1F5">PoCAD</text>
+<text x="378" y="48" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#46D193">PHONE CAD</text>
+<text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#B7C3CD"><tspan x="24" y="84">Turns an old Android phone into a CAD station:</tspan><tspan x="24" y="105">live 3D viewer + Claude Code chat, side by side.</tspan></text>
+<rect x="24" y="126" width="60" height="24" rx="6" fill="#202E3C" stroke="#394A5A"/><text x="54" y="142.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#B7C3CD">Termux</text><rect x="91.6" y="126" width="82" height="24" rx="6" fill="#202E3C" stroke="#394A5A"/><text x="133" y="142.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#B7C3CD">build123d</text><rect x="182.0" y="126" width="75" height="24" rx="6" fill="#202E3C" stroke="#394A5A"/><text x="219" y="142.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#B7C3CD">agentcad</text>
+</svg>

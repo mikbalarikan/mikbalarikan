@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="168" viewBox="0 0 400 168" role="img" aria-label="open-dedica">
+<title>open-dedica</title>
+
+<defs>
+  <pattern id="gopen-dedica" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0H0V20" fill="none" stroke="#141F2B" stroke-width="1"/>
+  </pattern>
+  <pattern id="Gopen-dedica" width="100" height="100" patternUnits="userSpaceOnUse">
+    <path d="M100 0H0V100" fill="none" stroke="#202E3C" stroke-width="1.2"/>
+  </pattern>
+</defs>
+<rect width="400" height="168" rx="18" fill="#0D161F"/>
+<rect width="400" height="168" rx="18" fill="url(#gopen-dedica)"/>
+<rect width="400" height="168" rx="18" fill="url(#Gopen-dedica)"/>
+<rect x=".75" y=".75" width="398.5" height="166.5" rx="17" fill="none" stroke="#394A5A" stroke-width="1.5"/>
+<rect x="0" y="22" width="5" height="40" rx="2" fill="#F59E0B"/>
+<text x="24" y="50" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#ECF1F5">open-dedica</text>
+<text x="378" y="48" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#F59E0B">OPEN HARDWARE</text>
+<text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#B7C3CD"><tspan x="24" y="84">Open-source DIY espresso machine: real Dedica</tspan><tspan x="24" y="105">internals in a fully open 3D-printed chassis.</tspan></text>
+<rect x="24" y="126" width="67" height="24" rx="6" fill="#202E3C" stroke="#394A5A"/><text x="58" y="142.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#B7C3CD">3D scan</text><rect x="99.19999999999999" y="126" width="44" height="24" rx="6" fill="#202E3C" stroke="#394A5A"/><text x="121" y="142.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#B7C3CD">STEP</text><rect x="151.6" y="126" width="82" height="24" rx="6" fill="#202E3C" stroke="#394A5A"/><text x="193" y="142.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#B7C3CD">community</text>
+</svg>

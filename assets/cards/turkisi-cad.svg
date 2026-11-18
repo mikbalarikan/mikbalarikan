@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="168" viewBox="0 0 400 168" role="img" aria-label="turkisi-cad">
+<title>turkisi-cad</title>
+
+<defs>
+  <pattern id="gturkisi-cad" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0H0V20" fill="none" stroke="#141F2B" stroke-width="1"/>
+  </pattern>
+  <pattern id="Gturkisi-cad" width="100" height="100" patternUnits="userSpaceOnUse">
+    <path d="M100 0H0V100" fill="none" stroke="#202E3C" stroke-width="1.2"/>
+  </pattern>
+</defs>
+<rect width="400" height="168" rx="18" fill="#0D161F"/>
+<rect width="400" height="168" rx="18" fill="url(#gturkisi-cad)"/>
+<rect width="400" height="168" rx="18" fill="url(#Gturkisi-cad)"/>
+<rect x=".75" y=".75" width="398.5" height="166.5" rx="17" fill="none" stroke="#394A5A" stroke-width="1.5"/>
+<rect x="0" y="22" width="5" height="40" rx="2" fill="#FF3347"/>
+<text x="24" y="50" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="800" fill="#ECF1F5">turkisi-cad</text>
+<text x="378" y="48" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#FF3347">LIVE LEAGUE</text>
+<text font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#B7C3CD"><tspan x="24" y="84">Agentic CAD League: same model, 4 CAD tools,</tspan><tspan x="24" y="105">5 harnesses, 45 parts — drawn blind from a spec.</tspan></text>
+<rect x="24" y="126" width="29" height="24" rx="6" fill="#202E3C" stroke="#394A5A"/><text x="39" y="142.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#B7C3CD">NX</text><rect x="61.2" y="126" width="90" height="24" rx="6" fill="#202E3C" stroke="#394A5A"/><text x="106" y="142.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#B7C3CD">SolidWorks</text><rect x="159.2" y="126" width="82" height="24" rx="6" fill="#202E3C" stroke="#394A5A"/><text x="200" y="142.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#B7C3CD">build123d</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 512 512" role="img" aria-label="KUMPAS">
+<title>KUMPAS</title>
+<g transform="translate(0 0) scale(1)">
+  <rect x="20" y="222" width="472" height="58" rx="10" fill="#B7C3CD" stroke="#070C11" stroke-width="14"/>
+  <g stroke="#070C11" stroke-width="5"><path d="M40,232V254M80,232V254M120,232V254M160,232V254M200,232V254M240,232V254M280,232V254M320,232V254M360,232V254M400,232V254M440,232V254"/><path d="M60,232V244M100,232V244M140,232V244M180,232V244M220,232V244M260,232V244M300,232V244M340,232V244M380,232V244M420,232V244M460,232V244"/></g>
+  <path d="M60,270 L130,270 L130,470 L98,500 L60,500 Z" fill="#B7C3CD" stroke="#070C11" stroke-width="14" stroke-linejoin="round"/>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;-26 0;-26 0;0 0;0 0"
+        keyTimes="0;.3;.55;.85;1" dur="6s" repeatCount="indefinite"/>
+    <path d="M382,270 L452,270 L452,500 L414,500 L382,470 Z" fill="#B7C3CD" stroke="#070C11" stroke-width="14" stroke-linejoin="round"/>
+  </g>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0"
+        dur="3s" repeatCount="indefinite"/>
+    <rect x="96" y="96" width="320" height="300" rx="56" fill="#FF3347" stroke="#070C11" stroke-width="14"/>
+    <path d="M96,300 L416,300 L416,340 Q416,396 360,396 L152,396 Q96,396 96,340 Z" fill="#AF1537" opacity=".6"/>
+    <rect x="96" y="96" width="320" height="300" rx="56" fill="none" stroke="#070C11" stroke-width="14"/>
+    <rect x="136" y="140" width="240" height="150" rx="22" fill="#070C11"/>
+    <g transform="translate(256 205)"><g><animateTransform attributeName="transform" type="scale" values="1 1;1 1;1 .08;1 1;1 1"
+        keyTimes="0;.9;.94;.98;1" dur="4.5s" repeatCount="indefinite"/><g transform="translate(-256 -205)">
+      <path d="M182.4,212.9 Q205.4,183 228.4,212.9" fill="none" stroke="#E6FF1F" stroke-width="12.6" stroke-linecap="round"/>
+      <path d="M283.6,212.9 Q306.6,183 329.6,212.9" fill="none" stroke="#E6FF1F" stroke-width="12.6" stroke-linecap="round"/>
+    </g></g></g>
+    <path d="M230.7,256.6 Q256,275 281.3,256.6" fill="none" stroke="#E6FF1F" stroke-width="9.2" stroke-linecap="round"/>
+    <circle cx="196" cy="340" r="15" fill="#ECF1F5" stroke="#070C11" stroke-width="7"/>
+    <circle cx="256" cy="340" r="15" fill="#ECF1F5" stroke="#070C11" stroke-width="7"/>
+    <circle cx="316" cy="340" r="15" fill="#ECF1F5" stroke="#070C11" stroke-width="7"/>
+    <circle cx="256" cy="52" r="34" fill="#FF3347" stroke="#070C11" stroke-width="14"><animate attributeName="fill" values="#FF3347;#ff8a96;#FF3347" dur="1.6s" repeatCount="indefinite"/></circle>
+    <path d="M236,52 L276,52 M256,32 L256,72" stroke="#070C11" stroke-width="9" stroke-linecap="round"/>
+    <rect x="244" y="80" width="24" height="22" fill="#808E9B" stroke="#070C11" stroke-width="8"/>
+  </g>
+</g></svg>
