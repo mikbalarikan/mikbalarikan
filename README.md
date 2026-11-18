@@ -32,7 +32,7 @@ the numbers pass.
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/mikbalarikan/agentic_STL-to-CAD"><img src="assets/cards/agentic-stl-to-cad.svg" alt="agentic_STL-to-CAD: SKILL.md reverse-engineering pipeline" width="100%"></a></td>
-    <td width="50%"><a href="https://github.com/mikbalarikan/NX_MCP"><img src="assets/cards/nx.svg" alt="NX MCP: MCP servers for Siemens NX" width="100%"></a></td>
+    <td width="50%"><a href="[https://github.com/mikbalarikan/NX_MCP](https://github.com/DreamEnding/NX_MCP)"><img src="assets/cards/nx.svg" alt="NX MCP: MCP servers for Siemens NX" width="100%"></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/mikbalarikan/PoCAD"><img src="assets/cards/pocad.svg" alt="PoCAD: Android phone CAD station with live 3D viewer and Claude Code chat" width="100%"></a></td>
