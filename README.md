@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mikbalarikan/"><img src="https://img.shields.io/badge/LinkedIn-mikbalarikan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D161F" alt="LinkedIn"></a>
   <a href="mailto:muhammed.arikan@kaust.edu.sa"><img src="https://img.shields.io/badge/KAUST-email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D161F" alt="KAUST email"></a>
-  <a href="https://www.youtube.com/watch?v=b4b8olf0IgI"><img src="https://img.shields.io/badge/YouTube-Türkişi_Engineering-FF3347?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D161F" alt="Türkişi Engineering on YouTube"></a>
+  <a href="https://www.youtube.com/c/T%C3%BCrki%C5%9FiEngineering"><img src="https://img.shields.io/badge/YouTube-Türkişi_Engineering-FF3347?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D161F" alt="Türkişi Engineering on YouTube"></a>
   <img src="https://komarev.com/ghpvc/?username=mikbalarikan&style=for-the-badge&color=E6FF1F&labelColor=0D161F&label=profile+views" alt="profile views">
 </p>
 
@@ -45,7 +45,7 @@ the numbers pass.
 ## 📺 Türkişi Engineering
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=b4b8olf0IgI"><img src="assets/turkisi.svg" alt="Türkişi Engineering: a YouTube channel on agentic CAD and engineering. Mascot KUMPAS, the caliper-bot. Agentic CAD League: 4 CAD tools, 5 harnesses, 45 parts, 1 model" width="100%"></a>
+  <a href="https://www.youtube.com/c/T%C3%BCrki%C5%9FiEngineering"><img src="assets/turkisi.svg" alt="Türkişi Engineering: a YouTube channel on agentic CAD and engineering. Mascot KUMPAS, the caliper-bot. Agentic CAD League: 4 CAD tools, 5 harnesses, 45 parts, 1 model" width="100%"></a>
 </p>
 
 ## 🧰 Toolbox
